@@ -34,8 +34,8 @@
 <b> About Me </b> <br>
 🌱 I’m currently learning <b>Python</b> and <b>Machine Learning</b> <br>
 🎯 Goal: Become a world-class developer & travel the world 🌏  <br>
-💬 Ask me about: Frontend dev, React, or my favorite anime 😄  <br>
-🌌 Fun fact: I love night skies and starry moments ✨<br>
+💬 Ask me about: Frontend dev, React, or my favorite anime   <br>
+🌌 Fun fact: I love night skies and starry moments <br>
 </td>
 <td width="20%">
 <!-- GIF next to About Me Section -->

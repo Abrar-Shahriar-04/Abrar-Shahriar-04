@@ -27,12 +27,22 @@
   <img src="https://komarev.com/ghpvc/?username=abrar-shahriar-04&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-shahriar-04" />
 </p>
 
-<!-- About Me -->
-### 🧑‍💻 About Me
-- 🌱 I’m currently learning **Python** and **Machine Learning**
-- 🎯 Goal: Become a world-class developer & travel the world 🌏  
-- 💬 Ask me about: Frontend dev, React, or my favorite anime 😄  
-- 🌌 Fun fact: I love night skies and starry moments ✨  
+<!-- About Me with GIF -->
+<table>
+<tr>
+<td width="80%">
+<b> About Me </b> <br>
+🌱 I’m currently learning <b>Python</b> and <b>Machine Learning</b> <br>
+🎯 Goal: Become a world-class developer & travel the world 🌏  <br>
+💬 Ask me about: Frontend dev, React, or my favorite anime 😄  <br>
+🌌 Fun fact: I love night skies and starry moments ✨<br>
+</td>
+<td width="20%">
+<!-- GIF next to About Me Section -->
+<img width="350" src="https://media.tenor.com/4MBK5F7GgowAAAAM/powerful-strong.gif" alt="gif about me" />
+</td>
+</tr>
+</table>
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
@@ -56,6 +66,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrar0099" height="30" width="40" />
   </a>
 </p>
+
+<hr>
 
 <!-- Reverted to Your Original Languages and Tools Format -->
 <h3 align="left">Languages and Tools:</h3>
@@ -131,8 +143,10 @@
   </a>
 </p>
 
+<hr>
+
 <!-- Stats -->
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-shahriar-04&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
@@ -141,6 +155,3 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-shahriar-04&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-shahriar-04&" alt="GitHub Streak" />
-</p>

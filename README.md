@@ -28,7 +28,7 @@
   <a href="https://instagram.com/vinsmoke_abrar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinsmoke_abrar" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/code with abrar" target="blank">
+  <a href="https://www.youtube.com/@codewithabrar6450" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with abrar" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/abrar0099" target="blank">

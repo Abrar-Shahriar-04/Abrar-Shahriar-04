@@ -1,9 +1,9 @@
-<!-- Logo -->
+<!-- Banner -->
 <p align="center">
   <img src="https://github.com/Abrar-Shahriar-04/Abrar-Shahriar-04/blob/main/story_img_4_pc.png" alt="logo">
 </p>
 
-<!-- Intro Section in Table for Better Layout -->
+<!-- Intro -->
 <table>
 <tr>
 <td>
@@ -69,7 +69,7 @@
 
 <hr>
 
-<!-- Reverted to Your Original Languages and Tools Format -->
+<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">

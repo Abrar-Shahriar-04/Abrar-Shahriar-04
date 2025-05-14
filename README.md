@@ -34,7 +34,7 @@
 <b> About Me </b> <br>
 🌱 I’m currently learning <b>Python</b> and <b>Machine Learning</b> <br>
 🎯 Goal: Become a world-class developer & travel the world 🌏  <br>
-🌌 Fun fact: I love night skies and starry moments <br>
+🌌 Fun fact: I love watching skies <br>
 </td>
 <td width="20%">
 <!-- GIF next to About Me Section -->

@@ -38,7 +38,7 @@
 </td>
 <td width="20%">
 <!-- GIF next to About Me Section -->
-<img width="350" src="https://media.tenor.com/4MBK5F7GgowAAAAM/powerful-strong.gif" alt="gif about me" />
+<img width="350" src="[https://media.tenor.com/4MBK5F7GgowAAAAM/powerful-strong.gif](https://tenor.com/view/kikis-delivery-service-relax-chill-sky-bee-gif-16803090)" alt="gif about me" />
 </td>
 </tr>
 </table>

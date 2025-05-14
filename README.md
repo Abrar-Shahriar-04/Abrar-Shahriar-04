@@ -34,7 +34,6 @@
 <b> About Me </b> <br>
 🌱 I’m currently learning <b>Python</b> and <b>Machine Learning</b> <br>
 🎯 Goal: Become a world-class developer & travel the world 🌏  <br>
-💬 Ask me about: Frontend dev  <br>
 🌌 Fun fact: I love night skies and starry moments <br>
 </td>
 <td width="20%">

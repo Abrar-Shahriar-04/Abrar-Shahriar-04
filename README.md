@@ -16,7 +16,7 @@
 <td>
 
 <!-- Right-side GIF -->
-<img width="300" src="https://i.pinimg.com/originals/b7/5f/2c/b75f2c027971a82e62447a836466aa34.gif">
+<img width="300" src="https://tenor.com/view/anime-hyouka-hyoutarou-slow-clap-clap-gif-6285258690673551559">
 
 </td>
 </tr>

@@ -32,7 +32,7 @@
 <tr>
 <td width="80%">
 <b> About Me </b> <br>
-🌱 I’m currently learning <b>Python</b> and <b>Machine Learning</b> <br>
+🌱 I’m currently learning <b>Python</b> and <b>C++</b> <br>
 🎯 Goal: Become a world-class developer & travel the world 🌏  <br>
 🌌 Fun fact: I love watching skies <br>
 </td>
